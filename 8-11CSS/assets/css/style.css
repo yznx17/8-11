@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+
+img {
+    border-radius: 50%;
+    width: 250px;
+
+
+}
+
+.photo {
+    text-align: center;
+    width: 80%;
+    border: 10px;
+    border-color: blue;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
